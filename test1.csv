@@ -1,0 +1,11 @@
+Age,Competition,Type,Profit
+Old,Yes,Software,Down
+Old,No,Software,Down
+Old,No,Hardware,Down
+Mid,Yes,Software,Down
+Mid,Yes,Hardware,Down
+Mid,No,Hardware,Up
+Mid,No,Software,Up
+New,Yes,Software,Up
+New,No,Hardware,Up
+New,No,Software,Up
